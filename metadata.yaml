@@ -1,4 +1,8 @@
 _repo: Beasts-Men-folk-tales-collected-in-Flanders-and-illustrated-by-Jean-de-Bosschere_46960
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46960-h/images/cover.jpg
 creator:
   author:
     agent_name: Boschère, Jean de
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '35828'
     url: http://www.gutenberg.org/2009/agents/35828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46960#Beasts-Men-folk-tales-collected-in-Flanders-and-illustrated-by-Jean-de-Bosschere
 gutenberg_issued: '2014-09-25'
 gutenberg_type: Text
 identifiers:
